@@ -1,10 +1,9 @@
 ## Management System
 
-
+이 앱은 웹의 고객관리를 위해 만들어진 리액트 프로젝트입니다(공부 목적으로 생성했기때문에 일부 불안정할수 있음을 알려드립니다.)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
